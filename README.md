@@ -1,2 +1,3 @@
 # ZhS_kos-scripts
-some kos scripts for rp-1 use(or else),for practice.
+
+kOS scripts for solving a few orbital mechanics problems
